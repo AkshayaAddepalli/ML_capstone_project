@@ -12,12 +12,10 @@ Predict the bike rental demand for an urban bike-sharing system using informatio
 
 For the regression task, the model predicts the actual number of bike rentals.
 
-For the classification task, the continuous bike rental count is converted into four demand categories:
+For the classification task, the continuous bike rental count is converted into 2 demand categories:
 
 - Low
-- Medium
-- High
-- Very High
+-  High
 
 The classification models predict the demand category instead of the exact rental count.
 
